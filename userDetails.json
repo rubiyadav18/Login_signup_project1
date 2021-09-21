@@ -1,0 +1,120 @@
+{
+    "allUserDetails": [
+        {
+            "userName": "Rubi yadav",
+            "password": "Rubiyadav@"
+        },
+        {
+            "userName": "Rubi",
+            "password": "rubi123@"
+        },
+        {
+            "userName": "akshra",
+            "password": "akshra1@",
+            "Profile": {
+                "DOB": "18/10/2002",
+                "gender": "female",
+                "hobby": "player"
+            }
+        },
+        {
+            "userName": "rubi",
+            "password": "rubi123@",
+            "Profile": {
+                "DOB": "10/18/2002",
+                "gender": "female",
+                "hobby": "player"
+            }
+        },
+        {
+            "userName": "rubi",
+            "password": "ashish2@",
+            "Profile": {
+                "DOB": "18/10/2002",
+                "gender": "female",
+                "hobby": "player"
+            }
+        },
+        {
+            "userName": "ashish",
+            "password": "ashish1@",
+            "Profile": {
+                "DOB": "30/7/2002",
+                "gender": "male",
+                "hobby": "match"
+            }
+        },
+        {
+            "userName": "zeenat",
+            "password": "zeenat1#",
+            "Profile": {
+                "DOB": "15/7/19199",
+                "gender": "female",
+                "hobby": "dance"
+            }
+        },
+        {
+            "userName": "rubi",
+            "password": "rubi123#",
+            "Profile": {
+                "DOB": "18/10/2002",
+                "gender": "female",
+                "hobby": "player"
+            }
+        },
+        {
+            "userName": "rubi yadav",
+            "password": "rubi123@",
+            "Profile": {
+                "DOB": "18/10/2002",
+                "gender": "female",
+                "hobby": "player"
+            }
+        },
+        {
+            "userName": "sandhya",
+            "password": "sandhya123@",
+            "Profile": {
+                "DOB": "19/2/200",
+                "gender": "female",
+                "hobby": "dance"
+            }
+        },
+        {
+            "userName": "sikha",
+            "password": "sikha12@",
+            "Profile": {
+                "DOB": "18/20/2002",
+                "gender": "feamle",
+                "hobby": "singing"
+            }
+        },
+        {
+            "userName": "shika",
+            "password": "sikha12@",
+            "Profile": {
+                "DOB": "18/20/2002",
+                "gender": "feamle",
+                "hobby": "singing"
+            }
+        },
+        {
+            "userName": "durga",
+            "password": "durga12#",
+            "Profile": {
+                "DOB": "12/12/2000",
+                "gender": "female",
+                "hobby": "ghjk"
+            }
+        },
+        {
+            "userName": "moni",
+            "password1": "moni123@",
+            "Profile": {
+                "DOB": "34",
+                "gender": "f",
+                "hobby": "p"
+            }
+        }
+    ]
+}
